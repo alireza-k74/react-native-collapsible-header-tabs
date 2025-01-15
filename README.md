@@ -18,6 +18,12 @@ A high-performance, feature-rich tab view component for React Native with collap
 - 🎯 TypeScript support
 - 📦 Zero dependencies (except peer dependencies)
 
+Here's a demo of the application in action:
+
+# Demo  
+
+![Demo GIF](demo.gif)
+
 ## Installation
 
 ```bash
